@@ -1,0 +1,9 @@
+fastapi
+pandas
+scikit-learn
+nltk
+uvicorn
+python-multipart
+requests
+jupyterlab
+JLDracula
