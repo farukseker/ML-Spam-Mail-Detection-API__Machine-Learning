@@ -123,11 +123,8 @@ web: uvicorn app:app --host=0.0.0.0 --port=${PORT:-8000}
 
 ## 📢 License
 
-MIT License
+GNU Affero General Public License v3.0
 
 
 ## Faruk şeker | Code ninja
-
-![docs/avatar.png](docs/avatar.png)
-
 ---
